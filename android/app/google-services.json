@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834823385148",
+    "project_id": "firebase-checking123",
+    "storage_bucket": "firebase-checking123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834823385148:android:a2cd52eea398240f66d339",
+        "android_client_info": {
+          "package_name": "com.example.learningdart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834823385148-8u3i02enop9o6enmc55b444sg2km08ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKLJ8tAQAny3rPuI7NCqudItlhlc86Cx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834823385148-8u3i02enop9o6enmc55b444sg2km08ch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
